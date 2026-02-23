@@ -1,0 +1,175 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi there", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day"],
+      "responses": ["Hello", "Good to see you again", "Hi there, how can I help?"],
+      "context": [""]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+      "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+      "context": [""]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+      "responses": ["My pleasure", "You're Welcome"],
+      "context": [""]
+    },
+    {
+      "tag": "query",
+      "patterns": ["What is Athenura?", "Who is Athenura?", "Tell me about Athenura", "Athenura?"],
+      "responses": ["Athenura is a leading technology company specializing in AI and machine learning solutions."],
+      "context": [""]
+    },
+    
+    {
+  "tag": "internship_duration",
+  "patterns": [
+    "What is the internship duration?",
+    "How long is the internship?",
+    "Internship duration",
+    "How many months is the internship?",
+    "Duration of internship?"
+  ],
+  "responses": [
+    "The internship duration can be 3, 4, 6, or 8 months depending on the program selected."
+  ],
+  "context": [""]
+},
+{
+  "tag": "eligibility_criteria",
+  "patterns": [
+    "Who can apply?",
+    "Am I eligible?",
+    "Eligibility criteria?",
+    "Who is eligible for this internship?",
+    "Can UG students apply?"
+  ],
+  "responses": [
+    "Every UG and diploma fresher student is eligible for the internship."
+  ],
+  "context": [""]
+},
+{
+  "tag": "required_skills",
+  "patterns": [
+    "What skills are required?",
+    "Required skills?",
+    "What skills do I need?",
+    "Technical skills needed?",
+    "Skill requirements?"
+  ],
+  "responses": [
+    "Skills depend on the domain. You can check detailed requirements on www.athenura.in/internship."
+  ],
+  "context": [""]
+},
+{
+  "tag": "selection_process",
+  "patterns": [
+    "What is the selection process?",
+    "How is selection done?",
+    "Selection rounds?",
+    "Interview process?",
+    "Hiring process?"
+  ],
+  "responses": [
+    "The selection process includes: 1) Resume Screening, 2) Telephonic Round, and 3) Technical & Communication Interview."
+  ],
+  "context": [""]
+},
+{
+  "tag": "stipend_details",
+  "patterns": [
+    "Is there any stipend?",
+    "Stipend details?",
+    "Is the internship paid?",
+    "Will I get paid?",
+    "Salary for internship?"
+  ],
+  "responses": [
+    "The internship is unpaid. However, interns can earn during client projects in the last month based on performance."
+  ],
+  "context": [""]
+},
+{
+  "tag": "certificate_policy",
+  "patterns": [
+    "Will I get a certificate?",
+    "Certificate policy?",
+    "Do you provide certificates?",
+    "Internship certificate details?"
+  ],
+  "responses": [
+    "Certificates will be issued only to candidates who successfully complete the internship."
+  ],
+  "context": [""]
+},
+{
+  "tag": "internship_mode",
+  "patterns": [
+    "Is it remote?",
+    "Internship mode?",
+    "Remote or onsite?",
+    "Is this internship online?",
+    "Mode of internship?"
+  ],
+  "responses": [
+    "The internship mode is fully REMOTE."
+  ],
+  "context": [""]
+},
+{
+  "tag": "contact_support",
+  "patterns": [
+    "How can I contact support?",
+    "Contact details?",
+    "HR email?",
+    "Support contact number?",
+    "Whom should I contact?"
+  ],
+  "responses": [
+    "You can contact us at hr.athenura@gmail.com or info.athenura@gmail.com. You can also call +91 98350 51934."
+  ],
+  "context": [""]
+},
+{
+  "tag": "placement_opportunity",
+  "patterns": [
+    "Is there any placement opportunity?",
+    "Will I get placement?",
+    "Job opportunity after internship?",
+    "Placement after internship?"
+  ],
+  "responses": [
+    "Placement opportunities are available for interns who complete 6 months or more of internship duration."
+  ],
+  "context": [""]
+},
+{
+  "tag": "mock_interview_support",
+  "patterns": [
+    "Do you provide mock interviews?",
+    "Interview preparation support?",
+    "Mock interview support?",
+    "Will you help with job preparation?"
+  ],
+  "responses": [
+    "During the internship, we provide mock interview support to help interns prepare for job opportunities."
+  ],
+  "context": [""]
+},
+{
+      "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "I'm not sure I understand. Could you please rephrase your question?",
+        "Sorry, I don't have information about that yet."
+      ],
+      "context": [""]
+    }
+  ]
+}
