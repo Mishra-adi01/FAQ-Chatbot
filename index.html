@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Athenura Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- FLOATING CHAT BUBBLE -->
+<div class="chat-toggle" onclick="toggleChat()">
+    <svg width="70" height="70" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <!-- Chat bubble tail (bottom left) -->
+        <path d="M 18 85 Q 12 92 8 96 L 22 88 Z" fill="white"/>
+        
+        <!-- Robot body - bottom large oval -->
+        <ellipse cx="60" cy="80" rx="20" ry="24" fill="white"/>
+        
+        <!-- Robot body - middle circle -->
+        <circle cx="60" cy="58" r="18" fill="white"/>
+        
+        <!-- Robot neck -->
+        <rect x="56" y="50" width="8" height="8" fill="white"/>
+        
+        <!-- Robot head - main oval -->
+        <ellipse cx="60" cy="35" rx="22" ry="18" fill="white"/>
+        
+        <!-- Robot head - left side bump -->
+        <circle cx="42" cy="35" r="10" fill="white"/>
+        
+        <!-- Robot head - right side bump -->
+        <circle cx="78" cy="35" r="10" fill="white"/>
+        
+        <!-- Robot head - top small bump -->
+        <ellipse cx="60" cy="20" rx="8" ry="5" fill="white"/>
+        
+        <!-- Robot face visor (dark purple) -->
+        <rect x="44" y="30" width="32" height="14" rx="7" fill="#2d1b69"/>
+        
+        <!-- Robot left eye (light blue with white center) -->
+        <circle cx="52" cy="37" r="4.5" fill="#a8d5f7"/>
+        <circle cx="52" cy="37" r="2.5" fill="white"/>
+        
+        <!-- Robot right eye (light blue with white center) -->
+        <circle cx="68" cy="37" r="4.5" fill="#a8d5f7"/>
+        <circle cx="68" cy="37" r="2.5" fill="white"/>
+        
+        <!-- Robot smile (white curved line) -->
+        <path d="M 52 46 Q 60 50 68 46" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        
+        <!-- Robot headset microphone (right side) -->
+        <rect x="78" y="33" width="3" height="12" rx="1.5" fill="#2d1b69"/>
+        <ellipse cx="79.5" cy="46" rx="4" ry="5" fill="#2d1b69"/>
+        
+        <!-- Robot left arm (waving up) -->
+        <rect x="34" y="48" width="6" height="14" rx="3" fill="white" transform="rotate(-35 37 55)"/>
+        <circle cx="32" cy="50" r="5" fill="white"/>
+        
+        <!-- Robot right arm (down) -->
+        <rect x="80" y="62" width="6" height="14" rx="3" fill="white" transform="rotate(20 83 69)"/>
+        <circle cx="88" cy="76" r="5" fill="#d4e8f5"/>
+    </svg>
+</div>
+
+<!-- CHAT WIDGET -->
+<div id="chatWidget" class="chat-widget">
+
+    <!-- HEADER -->
+    <div class="chat-header">
+        <div class="header-left">
+            <img src="athenura-logo.png" alt="Athenura Logo" class="profile-img">
+            <div class="header-text">
+                <h4>Chat with Athenura</h4>
+                <span class="online-status">● We're online</span>
+            </div>
+        </div>
+        <div class="header-right">
+            <button class="icon-btn" onclick="toggleChat()">−</button>
+        </div>
+    </div>
+
+    <!-- CHAT BODY -->
+    <div id="chatBox" class="chat-body">
+        <div class="message bot">
+            Hello 👋 Welcome to Athenura Internship.
+        </div>
+        <div class="quick-suggestion">
+            <button class="suggestion-btn">Internship Info</button>
+        </div>
+    </div>
+
+    <!-- QUICK REPLY OPTIONS -->
+    <div id="quickReplies" class="quick-replies">
+        <button class="quick-reply-btn" onclick="selectQuickReply('What is Athenura?')">What is Athenura?</button>
+        <button class="quick-reply-btn" onclick="selectQuickReply('Is the internship paid?')">Is the internship paid?</button>
+    </div>
+
+    <!-- INPUT SECTION -->
+    <div class="chat-input">
+        <input 
+            type="text" 
+            id="userInput" 
+            placeholder="Enter your message..."
+        />
+        <button class="send-btn" onclick="sendMessage()">➤</button>
+    </div>
+
+   
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

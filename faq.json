@@ -1,0 +1,3032 @@
+[
+    {
+        "id": 1,
+        "category": "Company Overview",
+        "question": "What is Athenura?",
+        "answer": "Athenura is an EdTech and IT services organization focused on bridging academic learning with industry requirements."
+    },
+    {
+        "id": 2,
+        "category": "Company Overview",
+        "question": "What services does Athenura provide?",
+        "answer": "Athenura provides internships, training programs, mentorship, and live project exposure."
+    },
+    {
+        "id": 3,
+        "category": "Internship Overview",
+        "question": "What is the objective of the internship?",
+        "answer": "The objective is to provide practical industry exposure and skill development."
+    },
+    {
+        "id": 4,
+        "category": "Internship Overview",
+        "question": "Is the internship practical based?",
+        "answer": "Yes, the internship is focused on hands-on learning and live projects."
+    },
+    {
+        "id": 5,
+        "category": "Eligibility",
+        "question": "Who can apply for internships?",
+        "answer": "Students, graduates, and early-career professionals are eligible."
+    },
+    {
+        "id": 6,
+        "category": "Application",
+        "question": "How can I apply?",
+        "answer": "You can apply through the official website or partner institutions."
+    },
+    {
+        "id": 7,
+        "category": "Duration",
+        "question": "What is the internship duration?",
+        "answer": "Duration is defined in the official offer letter."
+    },
+    {
+        "id": 8,
+        "category": "Stipend",
+        "question": "Is the internship paid?",
+        "answer": "No, the internship is unpaid and focused on learning."
+    },
+    {
+        "id": 9,
+        "category": "Certificate",
+        "question": "Will I receive a certificate?",
+        "answer": "Yes, upon successful completion."
+    },
+    {
+        "id": 10,
+        "category": "Placement",
+        "question": "Is placement guaranteed?",
+        "answer": "No, placement is not guaranteed."
+    },
+    {
+        "id": 11,
+        "category": "Company Overview",
+        "question": "How does Athenura handle selection criteria?",
+        "answer": "Selection criteria is managed under company supervision and structured processes."
+    },
+    {
+        "id": 12,
+        "category": "General",
+        "question": "Can you explain internship training at Athenura?",
+        "answer": "Internship training plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 13,
+        "category": "Certificate",
+        "question": "Does task submission impact internship completion?",
+        "answer": "Athenura provides complete clarity and support regarding Task submission."
+    },
+    {
+        "id": 14,
+        "category": "Services",
+        "question": "How does Athenura handle LOR issuance?",
+        "answer": "Guidelines about Lor issuance are shared during induction and training."
+    },
+    {
+        "id": 15,
+        "category": "Projects",
+        "question": "How does Athenura handle PPO opportunities?",
+        "answer": "Ppo opportunities plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 16,
+        "category": "Stipend",
+        "question": "What benefits are related to task submission?",
+        "answer": "Athenura ensures professional standards in all matters related to Task submission."
+    },
+    {
+        "id": 17,
+        "category": "Conduct",
+        "question": "Do interns receive guidance on communication?",
+        "answer": "Interns are expected to follow all rules related to Communication."
+    },
+    {
+        "id": 18,
+        "category": "Attendance",
+        "question": "Does communication impact internship completion?",
+        "answer": "Interns are expected to follow all rules related to Communication."
+    },
+    {
+        "id": 19,
+        "category": "Services",
+        "question": "Can you explain privacy protection at Athenura?",
+        "answer": "All interns must comply with policies associated with Privacy protection."
+    },
+    {
+        "id": 20,
+        "category": "Confidentiality",
+        "question": "How important is termination policy at Athenura?",
+        "answer": "Termination policy is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 21,
+        "category": "Conduct",
+        "question": "Is communication mandatory during internship?",
+        "answer": "Guidelines about Communication are shared during induction and training."
+    },
+    {
+        "id": 22,
+        "category": "Technical Support",
+        "question": "What should interns know about LOR issuance?",
+        "answer": "Lor issuance is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 23,
+        "category": "Evaluation",
+        "question": "What benefits are related to attendance?",
+        "answer": "Athenura provides complete clarity and support regarding Attendance."
+    },
+    {
+        "id": 24,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on task submission?",
+        "answer": "All interns must comply with policies associated with Task submission."
+    },
+    {
+        "id": 25,
+        "category": "Projects",
+        "question": "What are the rules for PPO opportunities?",
+        "answer": "Support and mentorship are provided concerning Ppo opportunities."
+    },
+    {
+        "id": 26,
+        "category": "Evaluation",
+        "question": "Does task submission impact internship completion?",
+        "answer": "Task submission is an important component of the internship framework."
+    },
+    {
+        "id": 27,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on performance evaluation?",
+        "answer": "Performance evaluation plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 28,
+        "category": "Conduct",
+        "question": "What should interns know about internship training?",
+        "answer": "Internship training plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 29,
+        "category": "General",
+        "question": "What should interns know about privacy protection?",
+        "answer": "Privacy protection is an important component of the internship framework."
+    },
+    {
+        "id": 30,
+        "category": "Technical Support",
+        "question": "Is task submission mandatory during internship?",
+        "answer": "Athenura provides complete clarity and support regarding Task submission."
+    },
+    {
+        "id": 31,
+        "category": "Conduct",
+        "question": "What should interns know about privacy protection?",
+        "answer": "Athenura ensures professional standards in all matters related to Privacy protection."
+    },
+    {
+        "id": 32,
+        "category": "Policies",
+        "question": "Is there any policy regarding code of conduct?",
+        "answer": "Interns are expected to follow all rules related to Code of conduct."
+    },
+    {
+        "id": 33,
+        "category": "Attendance",
+        "question": "What benefits are related to LOR issuance?",
+        "answer": "Athenura ensures professional standards in all matters related to Lor issuance."
+    },
+    {
+        "id": 34,
+        "category": "Internship Overview",
+        "question": "How important is performance evaluation at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 35,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on termination policy?",
+        "answer": "Termination policy is managed under company supervision and structured processes."
+    },
+    {
+        "id": 36,
+        "category": "LOR",
+        "question": "Is there any policy regarding selection criteria?",
+        "answer": "Selection criteria is managed under company supervision and structured processes."
+    },
+    {
+        "id": 37,
+        "category": "Evaluation",
+        "question": "What should interns know about performance evaluation?",
+        "answer": "Performance evaluation plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 38,
+        "category": "Privacy",
+        "question": "What benefits are related to LOR issuance?",
+        "answer": "All interns must comply with policies associated with Lor issuance."
+    },
+    {
+        "id": 39,
+        "category": "Internship Overview",
+        "question": "Does LOR issuance impact internship completion?",
+        "answer": "Lor issuance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 40,
+        "category": "Attendance",
+        "question": "Is communication mandatory during internship?",
+        "answer": "All interns must comply with policies associated with Communication."
+    },
+    {
+        "id": 41,
+        "category": "Technical Support",
+        "question": "How important is code of conduct at Athenura?",
+        "answer": "Support and mentorship are provided concerning Code of conduct."
+    },
+    {
+        "id": 42,
+        "category": "Services",
+        "question": "Can you explain placement support at Athenura?",
+        "answer": "All interns must comply with policies associated with Placement support."
+    },
+    {
+        "id": 43,
+        "category": "Conduct",
+        "question": "Is there any policy regarding application review?",
+        "answer": "Application review is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 44,
+        "category": "Terms",
+        "question": "Can you explain placement support at Athenura?",
+        "answer": "Support and mentorship are provided concerning Placement support."
+    },
+    {
+        "id": 45,
+        "category": "General",
+        "question": "Do interns receive guidance on certificate eligibility?",
+        "answer": "Certificate eligibility is an important component of the internship framework."
+    },
+    {
+        "id": 46,
+        "category": "General",
+        "question": "Does team collaboration impact internship completion?",
+        "answer": "Support and mentorship are provided concerning Team collaboration."
+    },
+    {
+        "id": 47,
+        "category": "Privacy",
+        "question": "What should interns know about working hours?",
+        "answer": "Working hours is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 48,
+        "category": "Services",
+        "question": "Is there any policy regarding selection criteria?",
+        "answer": "Athenura ensures professional standards in all matters related to Selection criteria."
+    },
+    {
+        "id": 49,
+        "category": "Training",
+        "question": "Can you explain application review at Athenura?",
+        "answer": "Application review plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 50,
+        "category": "Technical Support",
+        "question": "What are the rules for mentor support?",
+        "answer": "Athenura provides complete clarity and support regarding Mentor support."
+    },
+    {
+        "id": 51,
+        "category": "Conduct",
+        "question": "Is team collaboration mandatory during internship?",
+        "answer": "Athenura ensures professional standards in all matters related to Team collaboration."
+    },
+    {
+        "id": 52,
+        "category": "Internship Overview",
+        "question": "How important is placement support at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Placement support."
+    },
+    {
+        "id": 53,
+        "category": "Technical Support",
+        "question": "What are the rules for privacy protection?",
+        "answer": "Privacy protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 54,
+        "category": "Services",
+        "question": "Does application review impact internship completion?",
+        "answer": "All interns must comply with policies associated with Application review."
+    },
+    {
+        "id": 55,
+        "category": "Evaluation",
+        "question": "Can you explain communication at Athenura?",
+        "answer": "Communication is managed under company supervision and structured processes."
+    },
+    {
+        "id": 56,
+        "category": "Conduct",
+        "question": "How does Athenura handle data protection?",
+        "answer": "All interns must comply with policies associated with Data protection."
+    },
+    {
+        "id": 57,
+        "category": "Internship Overview",
+        "question": "Do interns receive guidance on attendance?",
+        "answer": "Support and mentorship are provided concerning Attendance."
+    },
+    {
+        "id": 58,
+        "category": "LOR",
+        "question": "How important is performance evaluation at Athenura?",
+        "answer": "All interns must comply with policies associated with Performance evaluation."
+    },
+    {
+        "id": 59,
+        "category": "Attendance",
+        "question": "Do interns receive guidance on task submission?",
+        "answer": "Task submission plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 60,
+        "category": "Conduct",
+        "question": "What are the rules for placement support?",
+        "answer": "Placement support is managed under company supervision and structured processes."
+    },
+    {
+        "id": 61,
+        "category": "Technical Support",
+        "question": "How important is internship training at Athenura?",
+        "answer": "Guidelines about Internship training are shared during induction and training."
+    },
+    {
+        "id": 62,
+        "category": "Internship Overview",
+        "question": "Do interns receive guidance on task submission?",
+        "answer": "Task submission plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 63,
+        "category": "Internship Overview",
+        "question": "How important is team collaboration at Athenura?",
+        "answer": "Support and mentorship are provided concerning Team collaboration."
+    },
+    {
+        "id": 64,
+        "category": "Company Overview",
+        "question": "What are the rules for mentor support?",
+        "answer": "Mentor support plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 65,
+        "category": "Stipend",
+        "question": "Does data protection impact internship completion?",
+        "answer": "Data protection is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 66,
+        "category": "Technical Support",
+        "question": "What should interns know about privacy protection?",
+        "answer": "Athenura ensures professional standards in all matters related to Privacy protection."
+    },
+    {
+        "id": 67,
+        "category": "Confidentiality",
+        "question": "Can you explain project allocation at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Project allocation."
+    },
+    {
+        "id": 68,
+        "category": "Terms",
+        "question": "Can you explain certificate eligibility at Athenura?",
+        "answer": "Certificate eligibility is an important component of the internship framework."
+    },
+    {
+        "id": 69,
+        "category": "Projects",
+        "question": "What benefits are related to placement support?",
+        "answer": "Guidelines about Placement support are shared during induction and training."
+    },
+    {
+        "id": 70,
+        "category": "Services",
+        "question": "Is privacy protection mandatory during internship?",
+        "answer": "Privacy protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 71,
+        "category": "Certificate",
+        "question": "What should interns know about data protection?",
+        "answer": "Data protection plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 72,
+        "category": "Eligibility",
+        "question": "What should interns know about data protection?",
+        "answer": "Data protection is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 73,
+        "category": "Stipend",
+        "question": "How does Athenura handle project allocation?",
+        "answer": "Interns are expected to follow all rules related to Project allocation."
+    },
+    {
+        "id": 74,
+        "category": "Services",
+        "question": "What are the rules for code of conduct?",
+        "answer": "Code of conduct plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 75,
+        "category": "Certificate",
+        "question": "Is attendance mandatory during internship?",
+        "answer": "Support and mentorship are provided concerning Attendance."
+    },
+    {
+        "id": 76,
+        "category": "Attendance",
+        "question": "What are the rules for LOR issuance?",
+        "answer": "Lor issuance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 77,
+        "category": "Placement",
+        "question": "Can you explain working hours at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Working hours."
+    },
+    {
+        "id": 78,
+        "category": "Attendance",
+        "question": "What should interns know about code of conduct?",
+        "answer": "Code of conduct is an important component of the internship framework."
+    },
+    {
+        "id": 79,
+        "category": "Policies",
+        "question": "How does Athenura handle certificate eligibility?",
+        "answer": "Interns are expected to follow all rules related to Certificate eligibility."
+    },
+    {
+        "id": 80,
+        "category": "Terms",
+        "question": "How does Athenura handle performance evaluation?",
+        "answer": "Athenura provides complete clarity and support regarding Performance evaluation."
+    },
+    {
+        "id": 81,
+        "category": "Services",
+        "question": "Is there any policy regarding internship training?",
+        "answer": "Interns are expected to follow all rules related to Internship training."
+    },
+    {
+        "id": 82,
+        "category": "LOR",
+        "question": "Is there any policy regarding LOR issuance?",
+        "answer": "Lor issuance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 83,
+        "category": "Projects",
+        "question": "Is there any policy regarding mentor support?",
+        "answer": "All interns must comply with policies associated with Mentor support."
+    },
+    {
+        "id": 84,
+        "category": "Terms",
+        "question": "How does Athenura handle certificate eligibility?",
+        "answer": "Guidelines about Certificate eligibility are shared during induction and training."
+    },
+    {
+        "id": 85,
+        "category": "Application",
+        "question": "Is mentor support mandatory during internship?",
+        "answer": "Guidelines about Mentor support are shared during induction and training."
+    },
+    {
+        "id": 86,
+        "category": "Stipend",
+        "question": "Do interns receive guidance on internship training?",
+        "answer": "Athenura ensures professional standards in all matters related to Internship training."
+    },
+    {
+        "id": 87,
+        "category": "Evaluation",
+        "question": "Can you explain LOR issuance at Athenura?",
+        "answer": "Support and mentorship are provided concerning Lor issuance."
+    },
+    {
+        "id": 88,
+        "category": "Certificate",
+        "question": "How important is team collaboration at Athenura?",
+        "answer": "Support and mentorship are provided concerning Team collaboration."
+    },
+    {
+        "id": 89,
+        "category": "LOR",
+        "question": "What benefits are related to working hours?",
+        "answer": "Working hours is an important component of the internship framework."
+    },
+    {
+        "id": 90,
+        "category": "Policies",
+        "question": "Can you explain attendance at Athenura?",
+        "answer": "Attendance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 91,
+        "category": "Terms",
+        "question": "Can you explain performance evaluation at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 92,
+        "category": "General",
+        "question": "How does Athenura handle placement support?",
+        "answer": "Placement support is managed under company supervision and structured processes."
+    },
+    {
+        "id": 93,
+        "category": "Technical Support",
+        "question": "How important is privacy protection at Athenura?",
+        "answer": "Privacy protection plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 94,
+        "category": "Placement",
+        "question": "How does Athenura handle performance evaluation?",
+        "answer": "Performance evaluation is an important component of the internship framework."
+    },
+    {
+        "id": 95,
+        "category": "Company Overview",
+        "question": "What benefits are related to communication?",
+        "answer": "Interns are expected to follow all rules related to Communication."
+    },
+    {
+        "id": 96,
+        "category": "Policies",
+        "question": "What benefits are related to code of conduct?",
+        "answer": "Athenura provides complete clarity and support regarding Code of conduct."
+    },
+    {
+        "id": 97,
+        "category": "Terms",
+        "question": "Can you explain working hours at Athenura?",
+        "answer": "Guidelines about Working hours are shared during induction and training."
+    },
+    {
+        "id": 98,
+        "category": "Placement",
+        "question": "What benefits are related to PPO opportunities?",
+        "answer": "Guidelines about Ppo opportunities are shared during induction and training."
+    },
+    {
+        "id": 99,
+        "category": "Privacy",
+        "question": "How does Athenura handle task submission?",
+        "answer": "Athenura provides complete clarity and support regarding Task submission."
+    },
+    {
+        "id": 100,
+        "category": "Application",
+        "question": "What benefits are related to code of conduct?",
+        "answer": "Code of conduct plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 101,
+        "category": "Projects",
+        "question": "Does selection criteria impact internship completion?",
+        "answer": "Selection criteria is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 102,
+        "category": "Stipend",
+        "question": "Do interns receive guidance on confidentiality?",
+        "answer": "Athenura ensures professional standards in all matters related to Confidentiality."
+    },
+    {
+        "id": 103,
+        "category": "Eligibility",
+        "question": "Do interns receive guidance on confidentiality?",
+        "answer": "All interns must comply with policies associated with Confidentiality."
+    },
+    {
+        "id": 104,
+        "category": "Evaluation",
+        "question": "What benefits are related to selection criteria?",
+        "answer": "Selection criteria is managed under company supervision and structured processes."
+    },
+    {
+        "id": 105,
+        "category": "Privacy",
+        "question": "Do interns receive guidance on code of conduct?",
+        "answer": "Code of conduct is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 106,
+        "category": "Application",
+        "question": "What benefits are related to performance evaluation?",
+        "answer": "Performance evaluation is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 107,
+        "category": "Stipend",
+        "question": "What should interns know about application review?",
+        "answer": "All interns must comply with policies associated with Application review."
+    },
+    {
+        "id": 108,
+        "category": "Training",
+        "question": "What are the rules for LOR issuance?",
+        "answer": "Support and mentorship are provided concerning Lor issuance."
+    },
+    {
+        "id": 109,
+        "category": "Internship Overview",
+        "question": "What benefits are related to communication?",
+        "answer": "Communication is managed under company supervision and structured processes."
+    },
+    {
+        "id": 110,
+        "category": "Certificate",
+        "question": "Does mentor support impact internship completion?",
+        "answer": "Interns are expected to follow all rules related to Mentor support."
+    },
+    {
+        "id": 111,
+        "category": "Evaluation",
+        "question": "How does Athenura handle placement support?",
+        "answer": "Interns are expected to follow all rules related to Placement support."
+    },
+    {
+        "id": 112,
+        "category": "Certificate",
+        "question": "Do interns receive guidance on attendance?",
+        "answer": "All interns must comply with policies associated with Attendance."
+    },
+    {
+        "id": 113,
+        "category": "Policies",
+        "question": "Can you explain selection criteria at Athenura?",
+        "answer": "Guidelines about Selection criteria are shared during induction and training."
+    },
+    {
+        "id": 114,
+        "category": "Certificate",
+        "question": "What should interns know about code of conduct?",
+        "answer": "Guidelines about Code of conduct are shared during induction and training."
+    },
+    {
+        "id": 115,
+        "category": "Conduct",
+        "question": "How does Athenura handle selection criteria?",
+        "answer": "Selection criteria is an important component of the internship framework."
+    },
+    {
+        "id": 116,
+        "category": "Conduct",
+        "question": "What benefits are related to code of conduct?",
+        "answer": "Athenura provides complete clarity and support regarding Code of conduct."
+    },
+    {
+        "id": 117,
+        "category": "Privacy",
+        "question": "Can you explain project allocation at Athenura?",
+        "answer": "Project allocation plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 118,
+        "category": "Eligibility",
+        "question": "Do interns receive guidance on application review?",
+        "answer": "Guidelines about Application review are shared during induction and training."
+    },
+    {
+        "id": 119,
+        "category": "Training",
+        "question": "Does working hours impact internship completion?",
+        "answer": "Athenura ensures professional standards in all matters related to Working hours."
+    },
+    {
+        "id": 120,
+        "category": "Internship Overview",
+        "question": "What are the rules for LOR issuance?",
+        "answer": "Lor issuance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 121,
+        "category": "Training",
+        "question": "What are the rules for termination policy?",
+        "answer": "Athenura ensures professional standards in all matters related to Termination policy."
+    },
+    {
+        "id": 122,
+        "category": "Application",
+        "question": "Is mentor support mandatory during internship?",
+        "answer": "Mentor support is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 123,
+        "category": "Policies",
+        "question": "How important is team collaboration at Athenura?",
+        "answer": "All interns must comply with policies associated with Team collaboration."
+    },
+    {
+        "id": 124,
+        "category": "LOR",
+        "question": "Does attendance impact internship completion?",
+        "answer": "Attendance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 125,
+        "category": "Confidentiality",
+        "question": "Is there any policy regarding data protection?",
+        "answer": "Interns are expected to follow all rules related to Data protection."
+    },
+    {
+        "id": 126,
+        "category": "Certificate",
+        "question": "Does mentor support impact internship completion?",
+        "answer": "All interns must comply with policies associated with Mentor support."
+    },
+    {
+        "id": 127,
+        "category": "Eligibility",
+        "question": "What should interns know about application review?",
+        "answer": "Athenura provides complete clarity and support regarding Application review."
+    },
+    {
+        "id": 128,
+        "category": "Internship Overview",
+        "question": "How does Athenura handle task submission?",
+        "answer": "Task submission is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 129,
+        "category": "Projects",
+        "question": "Can you explain data protection at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Data protection."
+    },
+    {
+        "id": 130,
+        "category": "Stipend",
+        "question": "How does Athenura handle working hours?",
+        "answer": "Working hours is an important component of the internship framework."
+    },
+    {
+        "id": 131,
+        "category": "Services",
+        "question": "Is there any policy regarding internship training?",
+        "answer": "Internship training is an important component of the internship framework."
+    },
+    {
+        "id": 132,
+        "category": "Confidentiality",
+        "question": "Is there any policy regarding working hours?",
+        "answer": "Guidelines about Working hours are shared during induction and training."
+    },
+    {
+        "id": 133,
+        "category": "Projects",
+        "question": "Can you explain mentor support at Athenura?",
+        "answer": "Guidelines about Mentor support are shared during induction and training."
+    },
+    {
+        "id": 134,
+        "category": "General",
+        "question": "Is performance evaluation mandatory during internship?",
+        "answer": "Athenura provides complete clarity and support regarding Performance evaluation."
+    },
+    {
+        "id": 135,
+        "category": "Policies",
+        "question": "Can you explain mentor support at Athenura?",
+        "answer": "Mentor support plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 136,
+        "category": "Evaluation",
+        "question": "What are the rules for communication?",
+        "answer": "Interns are expected to follow all rules related to Communication."
+    },
+    {
+        "id": 137,
+        "category": "Services",
+        "question": "How does Athenura handle application review?",
+        "answer": "Guidelines about Application review are shared during induction and training."
+    },
+    {
+        "id": 138,
+        "category": "Evaluation",
+        "question": "Can you explain team collaboration at Athenura?",
+        "answer": "Team collaboration is an important component of the internship framework."
+    },
+    {
+        "id": 139,
+        "category": "Projects",
+        "question": "Do interns receive guidance on code of conduct?",
+        "answer": "Interns are expected to follow all rules related to Code of conduct."
+    },
+    {
+        "id": 140,
+        "category": "Projects",
+        "question": "Is there any policy regarding mentor support?",
+        "answer": "Athenura ensures professional standards in all matters related to Mentor support."
+    },
+    {
+        "id": 141,
+        "category": "Placement",
+        "question": "Can you explain code of conduct at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Code of conduct."
+    },
+    {
+        "id": 142,
+        "category": "Projects",
+        "question": "Is there any policy regarding termination policy?",
+        "answer": "Support and mentorship are provided concerning Termination policy."
+    },
+    {
+        "id": 143,
+        "category": "Technical Support",
+        "question": "How does Athenura handle internship training?",
+        "answer": "Internship training is an important component of the internship framework."
+    },
+    {
+        "id": 144,
+        "category": "General",
+        "question": "Does application review impact internship completion?",
+        "answer": "Application review is managed under company supervision and structured processes."
+    },
+    {
+        "id": 145,
+        "category": "Certificate",
+        "question": "What are the rules for task submission?",
+        "answer": "Interns are expected to follow all rules related to Task submission."
+    },
+    {
+        "id": 146,
+        "category": "Projects",
+        "question": "What benefits are related to working hours?",
+        "answer": "Athenura provides complete clarity and support regarding Working hours."
+    },
+    {
+        "id": 147,
+        "category": "Projects",
+        "question": "Is there any policy regarding communication?",
+        "answer": "Athenura provides complete clarity and support regarding Communication."
+    },
+    {
+        "id": 148,
+        "category": "Evaluation",
+        "question": "Is application review mandatory during internship?",
+        "answer": "Application review is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 149,
+        "category": "Projects",
+        "question": "Do interns receive guidance on placement support?",
+        "answer": "Interns are expected to follow all rules related to Placement support."
+    },
+    {
+        "id": 150,
+        "category": "Services",
+        "question": "What are the rules for mentor support?",
+        "answer": "Support and mentorship are provided concerning Mentor support."
+    },
+    {
+        "id": 151,
+        "category": "Training",
+        "question": "How does Athenura handle privacy protection?",
+        "answer": "Privacy protection is an important component of the internship framework."
+    },
+    {
+        "id": 152,
+        "category": "Conduct",
+        "question": "Does working hours impact internship completion?",
+        "answer": "Interns are expected to follow all rules related to Working hours."
+    },
+    {
+        "id": 153,
+        "category": "Stipend",
+        "question": "Does confidentiality impact internship completion?",
+        "answer": "Athenura ensures professional standards in all matters related to Confidentiality."
+    },
+    {
+        "id": 154,
+        "category": "Evaluation",
+        "question": "Do interns receive guidance on mentor support?",
+        "answer": "Mentor support plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 155,
+        "category": "Technical Support",
+        "question": "How does Athenura handle PPO opportunities?",
+        "answer": "Athenura provides complete clarity and support regarding Ppo opportunities."
+    },
+    {
+        "id": 156,
+        "category": "Internship Overview",
+        "question": "What are the rules for internship training?",
+        "answer": "Guidelines about Internship training are shared during induction and training."
+    },
+    {
+        "id": 157,
+        "category": "Terms",
+        "question": "How important is placement support at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Placement support."
+    },
+    {
+        "id": 158,
+        "category": "Confidentiality",
+        "question": "Can you explain application review at Athenura?",
+        "answer": "All interns must comply with policies associated with Application review."
+    },
+    {
+        "id": 159,
+        "category": "Services",
+        "question": "How important is communication at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Communication."
+    },
+    {
+        "id": 160,
+        "category": "Projects",
+        "question": "Is there any policy regarding performance evaluation?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 161,
+        "category": "Company Overview",
+        "question": "What should interns know about project allocation?",
+        "answer": "Project allocation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 162,
+        "category": "Attendance",
+        "question": "Does data protection impact internship completion?",
+        "answer": "All interns must comply with policies associated with Data protection."
+    },
+    {
+        "id": 163,
+        "category": "Conduct",
+        "question": "Can you explain LOR issuance at Athenura?",
+        "answer": "Support and mentorship are provided concerning Lor issuance."
+    },
+    {
+        "id": 164,
+        "category": "Application",
+        "question": "What should interns know about mentor support?",
+        "answer": "Interns are expected to follow all rules related to Mentor support."
+    },
+    {
+        "id": 165,
+        "category": "Certificate",
+        "question": "What should interns know about confidentiality?",
+        "answer": "Confidentiality plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 166,
+        "category": "Certificate",
+        "question": "What should interns know about internship training?",
+        "answer": "Internship training is managed under company supervision and structured processes."
+    },
+    {
+        "id": 167,
+        "category": "General",
+        "question": "What benefits are related to termination policy?",
+        "answer": "Support and mentorship are provided concerning Termination policy."
+    },
+    {
+        "id": 168,
+        "category": "Conduct",
+        "question": "Can you explain internship training at Athenura?",
+        "answer": "Internship training is managed under company supervision and structured processes."
+    },
+    {
+        "id": 169,
+        "category": "Company Overview",
+        "question": "How important is LOR issuance at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Lor issuance."
+    },
+    {
+        "id": 170,
+        "category": "Confidentiality",
+        "question": "How does Athenura handle task submission?",
+        "answer": "Support and mentorship are provided concerning Task submission."
+    },
+    {
+        "id": 171,
+        "category": "Services",
+        "question": "Is working hours mandatory during internship?",
+        "answer": "Support and mentorship are provided concerning Working hours."
+    },
+    {
+        "id": 172,
+        "category": "Services",
+        "question": "How does Athenura handle privacy protection?",
+        "answer": "Support and mentorship are provided concerning Privacy protection."
+    },
+    {
+        "id": 173,
+        "category": "Internship Overview",
+        "question": "What benefits are related to certificate eligibility?",
+        "answer": "Athenura provides complete clarity and support regarding Certificate eligibility."
+    },
+    {
+        "id": 174,
+        "category": "Certificate",
+        "question": "How important is selection criteria at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Selection criteria."
+    },
+    {
+        "id": 175,
+        "category": "Eligibility",
+        "question": "How does Athenura handle confidentiality?",
+        "answer": "Confidentiality is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 176,
+        "category": "Training",
+        "question": "Is there any policy regarding data protection?",
+        "answer": "Data protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 177,
+        "category": "Policies",
+        "question": "How does Athenura handle performance evaluation?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 178,
+        "category": "Application",
+        "question": "What benefits are related to code of conduct?",
+        "answer": "All interns must comply with policies associated with Code of conduct."
+    },
+    {
+        "id": 179,
+        "category": "Application",
+        "question": "What benefits are related to internship training?",
+        "answer": "Internship training is managed under company supervision and structured processes."
+    },
+    {
+        "id": 180,
+        "category": "Eligibility",
+        "question": "What benefits are related to placement support?",
+        "answer": "Placement support plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 181,
+        "category": "Training",
+        "question": "How does Athenura handle application review?",
+        "answer": "Application review is managed under company supervision and structured processes."
+    },
+    {
+        "id": 182,
+        "category": "Company Overview",
+        "question": "Is internship training mandatory during internship?",
+        "answer": "Internship training plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 183,
+        "category": "Eligibility",
+        "question": "What are the rules for certificate eligibility?",
+        "answer": "All interns must comply with policies associated with Certificate eligibility."
+    },
+    {
+        "id": 184,
+        "category": "Internship Overview",
+        "question": "Can you explain PPO opportunities at Athenura?",
+        "answer": "Ppo opportunities is an important component of the internship framework."
+    },
+    {
+        "id": 185,
+        "category": "Confidentiality",
+        "question": "What are the rules for application review?",
+        "answer": "All interns must comply with policies associated with Application review."
+    },
+    {
+        "id": 186,
+        "category": "Confidentiality",
+        "question": "Can you explain PPO opportunities at Athenura?",
+        "answer": "Ppo opportunities is an important component of the internship framework."
+    },
+    {
+        "id": 187,
+        "category": "Company Overview",
+        "question": "How does Athenura handle application review?",
+        "answer": "Application review is managed under company supervision and structured processes."
+    },
+    {
+        "id": 188,
+        "category": "Privacy",
+        "question": "How important is code of conduct at Athenura?",
+        "answer": "All interns must comply with policies associated with Code of conduct."
+    },
+    {
+        "id": 189,
+        "category": "Training",
+        "question": "Is code of conduct mandatory during internship?",
+        "answer": "Athenura ensures professional standards in all matters related to Code of conduct."
+    },
+    {
+        "id": 190,
+        "category": "Technical Support",
+        "question": "Do interns receive guidance on communication?",
+        "answer": "Guidelines about Communication are shared during induction and training."
+    },
+    {
+        "id": 191,
+        "category": "Certificate",
+        "question": "Can you explain LOR issuance at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Lor issuance."
+    },
+    {
+        "id": 192,
+        "category": "Company Overview",
+        "question": "How does Athenura handle internship training?",
+        "answer": "Internship training is managed under company supervision and structured processes."
+    },
+    {
+        "id": 193,
+        "category": "Technical Support",
+        "question": "Can you explain PPO opportunities at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Ppo opportunities."
+    },
+    {
+        "id": 194,
+        "category": "Attendance",
+        "question": "What benefits are related to selection criteria?",
+        "answer": "Athenura ensures professional standards in all matters related to Selection criteria."
+    },
+    {
+        "id": 195,
+        "category": "Training",
+        "question": "Does attendance impact internship completion?",
+        "answer": "Attendance is an important component of the internship framework."
+    },
+    {
+        "id": 196,
+        "category": "Confidentiality",
+        "question": "Does selection criteria impact internship completion?",
+        "answer": "Selection criteria is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 197,
+        "category": "Application",
+        "question": "How important is placement support at Athenura?",
+        "answer": "Support and mentorship are provided concerning Placement support."
+    },
+    {
+        "id": 198,
+        "category": "Attendance",
+        "question": "What benefits are related to internship training?",
+        "answer": "Internship training is managed under company supervision and structured processes."
+    },
+    {
+        "id": 199,
+        "category": "Company Overview",
+        "question": "What benefits are related to performance evaluation?",
+        "answer": "Guidelines about Performance evaluation are shared during induction and training."
+    },
+    {
+        "id": 200,
+        "category": "Evaluation",
+        "question": "Is placement support mandatory during internship?",
+        "answer": "Placement support is managed under company supervision and structured processes."
+    },
+    {
+        "id": 201,
+        "category": "General",
+        "question": "Is certificate eligibility mandatory during internship?",
+        "answer": "Certificate eligibility is an important component of the internship framework."
+    },
+    {
+        "id": 202,
+        "category": "Evaluation",
+        "question": "What benefits are related to LOR issuance?",
+        "answer": "Lor issuance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 203,
+        "category": "Training",
+        "question": "Is there any policy regarding data protection?",
+        "answer": "Guidelines about Data protection are shared during induction and training."
+    },
+    {
+        "id": 204,
+        "category": "Placement",
+        "question": "What benefits are related to task submission?",
+        "answer": "Support and mentorship are provided concerning Task submission."
+    },
+    {
+        "id": 205,
+        "category": "Stipend",
+        "question": "What benefits are related to internship training?",
+        "answer": "Internship training plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 206,
+        "category": "Internship Overview",
+        "question": "What benefits are related to placement support?",
+        "answer": "Interns are expected to follow all rules related to Placement support."
+    },
+    {
+        "id": 207,
+        "category": "Attendance",
+        "question": "Can you explain attendance at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Attendance."
+    },
+    {
+        "id": 208,
+        "category": "Privacy",
+        "question": "What should interns know about selection criteria?",
+        "answer": "Selection criteria is managed under company supervision and structured processes."
+    },
+    {
+        "id": 209,
+        "category": "Confidentiality",
+        "question": "What benefits are related to data protection?",
+        "answer": "Data protection is an important component of the internship framework."
+    },
+    {
+        "id": 210,
+        "category": "Projects",
+        "question": "Does application review impact internship completion?",
+        "answer": "Application review is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 211,
+        "category": "Terms",
+        "question": "What benefits are related to working hours?",
+        "answer": "Support and mentorship are provided concerning Working hours."
+    },
+    {
+        "id": 212,
+        "category": "Terms",
+        "question": "How important is confidentiality at Athenura?",
+        "answer": "Support and mentorship are provided concerning Confidentiality."
+    },
+    {
+        "id": 213,
+        "category": "Application",
+        "question": "Does communication impact internship completion?",
+        "answer": "Guidelines about Communication are shared during induction and training."
+    },
+    {
+        "id": 214,
+        "category": "Technical Support",
+        "question": "Does privacy protection impact internship completion?",
+        "answer": "Privacy protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 215,
+        "category": "LOR",
+        "question": "How does Athenura handle PPO opportunities?",
+        "answer": "Ppo opportunities plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 216,
+        "category": "Evaluation",
+        "question": "What should interns know about placement support?",
+        "answer": "All interns must comply with policies associated with Placement support."
+    },
+    {
+        "id": 217,
+        "category": "General",
+        "question": "Can you explain LOR issuance at Athenura?",
+        "answer": "Lor issuance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 218,
+        "category": "Application",
+        "question": "What benefits are related to internship training?",
+        "answer": "Internship training plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 219,
+        "category": "Training",
+        "question": "Do interns receive guidance on communication?",
+        "answer": "All interns must comply with policies associated with Communication."
+    },
+    {
+        "id": 220,
+        "category": "Placement",
+        "question": "How important is PPO opportunities at Athenura?",
+        "answer": "Ppo opportunities plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 221,
+        "category": "Placement",
+        "question": "Can you explain LOR issuance at Athenura?",
+        "answer": "Lor issuance is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 222,
+        "category": "Placement",
+        "question": "How important is mentor support at Athenura?",
+        "answer": "Support and mentorship are provided concerning Mentor support."
+    },
+    {
+        "id": 223,
+        "category": "Terms",
+        "question": "Do interns receive guidance on performance evaluation?",
+        "answer": "Support and mentorship are provided concerning Performance evaluation."
+    },
+    {
+        "id": 224,
+        "category": "General",
+        "question": "What are the rules for performance evaluation?",
+        "answer": "Athenura provides complete clarity and support regarding Performance evaluation."
+    },
+    {
+        "id": 225,
+        "category": "Services",
+        "question": "What are the rules for performance evaluation?",
+        "answer": "Performance evaluation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 226,
+        "category": "Application",
+        "question": "Is there any policy regarding data protection?",
+        "answer": "Athenura provides complete clarity and support regarding Data protection."
+    },
+    {
+        "id": 227,
+        "category": "Attendance",
+        "question": "What benefits are related to application review?",
+        "answer": "Support and mentorship are provided concerning Application review."
+    },
+    {
+        "id": 228,
+        "category": "Attendance",
+        "question": "Is performance evaluation mandatory during internship?",
+        "answer": "Athenura provides complete clarity and support regarding Performance evaluation."
+    },
+    {
+        "id": 229,
+        "category": "Services",
+        "question": "What are the rules for application review?",
+        "answer": "Interns are expected to follow all rules related to Application review."
+    },
+    {
+        "id": 230,
+        "category": "Evaluation",
+        "question": "What should interns know about mentor support?",
+        "answer": "Mentor support plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 231,
+        "category": "LOR",
+        "question": "What are the rules for termination policy?",
+        "answer": "Athenura provides complete clarity and support regarding Termination policy."
+    },
+    {
+        "id": 232,
+        "category": "Projects",
+        "question": "How does Athenura handle application review?",
+        "answer": "Interns are expected to follow all rules related to Application review."
+    },
+    {
+        "id": 233,
+        "category": "Training",
+        "question": "Can you explain internship training at Athenura?",
+        "answer": "Internship training is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 234,
+        "category": "Services",
+        "question": "Is performance evaluation mandatory during internship?",
+        "answer": "Athenura ensures professional standards in all matters related to Performance evaluation."
+    },
+    {
+        "id": 235,
+        "category": "Application",
+        "question": "Do interns receive guidance on selection criteria?",
+        "answer": "Athenura ensures professional standards in all matters related to Selection criteria."
+    },
+    {
+        "id": 236,
+        "category": "Terms",
+        "question": "What benefits are related to attendance?",
+        "answer": "All interns must comply with policies associated with Attendance."
+    },
+    {
+        "id": 237,
+        "category": "Projects",
+        "question": "What benefits are related to placement support?",
+        "answer": "Support and mentorship are provided concerning Placement support."
+    },
+    {
+        "id": 238,
+        "category": "Terms",
+        "question": "What benefits are related to communication?",
+        "answer": "Support and mentorship are provided concerning Communication."
+    },
+    {
+        "id": 239,
+        "category": "Confidentiality",
+        "question": "Does communication impact internship completion?",
+        "answer": "All interns must comply with policies associated with Communication."
+    },
+    {
+        "id": 240,
+        "category": "Policies",
+        "question": "Does team collaboration impact internship completion?",
+        "answer": "Team collaboration is an important component of the internship framework."
+    },
+    {
+        "id": 241,
+        "category": "General",
+        "question": "What benefits are related to placement support?",
+        "answer": "Placement support is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 242,
+        "category": "Policies",
+        "question": "What benefits are related to mentor support?",
+        "answer": "Mentor support is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 243,
+        "category": "Stipend",
+        "question": "Is internship training mandatory during internship?",
+        "answer": "Guidelines about Internship training are shared during induction and training."
+    },
+    {
+        "id": 244,
+        "category": "Stipend",
+        "question": "What benefits are related to attendance?",
+        "answer": "Attendance is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 245,
+        "category": "Services",
+        "question": "Do interns receive guidance on selection criteria?",
+        "answer": "Interns are expected to follow all rules related to Selection criteria."
+    },
+    {
+        "id": 246,
+        "category": "Evaluation",
+        "question": "What are the rules for termination policy?",
+        "answer": "Termination policy plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 247,
+        "category": "Technical Support",
+        "question": "What are the rules for performance evaluation?",
+        "answer": "Performance evaluation plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 248,
+        "category": "Terms",
+        "question": "Can you explain selection criteria at Athenura?",
+        "answer": "Guidelines about Selection criteria are shared during induction and training."
+    },
+    {
+        "id": 249,
+        "category": "Training",
+        "question": "How does Athenura handle placement support?",
+        "answer": "Athenura provides complete clarity and support regarding Placement support."
+    },
+    {
+        "id": 250,
+        "category": "Technical Support",
+        "question": "What benefits are related to privacy protection?",
+        "answer": "All interns must comply with policies associated with Privacy protection."
+    },
+    {
+        "id": 251,
+        "category": "Privacy",
+        "question": "What benefits are related to communication?",
+        "answer": "Athenura ensures professional standards in all matters related to Communication."
+    },
+    {
+        "id": 252,
+        "category": "Conduct",
+        "question": "What should interns know about task submission?",
+        "answer": "Interns are expected to follow all rules related to Task submission."
+    },
+    {
+        "id": 253,
+        "category": "Internship Overview",
+        "question": "How important is confidentiality at Athenura?",
+        "answer": "Support and mentorship are provided concerning Confidentiality."
+    },
+    {
+        "id": 254,
+        "category": "Training",
+        "question": "What should interns know about working hours?",
+        "answer": "Working hours is an important component of the internship framework."
+    },
+    {
+        "id": 255,
+        "category": "Application",
+        "question": "What benefits are related to privacy protection?",
+        "answer": "Support and mentorship are provided concerning Privacy protection."
+    },
+    {
+        "id": 256,
+        "category": "Training",
+        "question": "Do interns receive guidance on task submission?",
+        "answer": "Interns are expected to follow all rules related to Task submission."
+    },
+    {
+        "id": 257,
+        "category": "General",
+        "question": "How important is PPO opportunities at Athenura?",
+        "answer": "Ppo opportunities is managed under company supervision and structured processes."
+    },
+    {
+        "id": 258,
+        "category": "Privacy",
+        "question": "Can you explain mentor support at Athenura?",
+        "answer": "Support and mentorship are provided concerning Mentor support."
+    },
+    {
+        "id": 259,
+        "category": "Eligibility",
+        "question": "What benefits are related to project allocation?",
+        "answer": "Project allocation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 260,
+        "category": "Attendance",
+        "question": "What are the rules for confidentiality?",
+        "answer": "Confidentiality plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 261,
+        "category": "Evaluation",
+        "question": "How does Athenura handle project allocation?",
+        "answer": "Project allocation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 262,
+        "category": "Technical Support",
+        "question": "What should interns know about internship training?",
+        "answer": "Athenura ensures professional standards in all matters related to Internship training."
+    },
+    {
+        "id": 263,
+        "category": "Privacy",
+        "question": "How does Athenura handle LOR issuance?",
+        "answer": "Support and mentorship are provided concerning Lor issuance."
+    },
+    {
+        "id": 264,
+        "category": "Internship Overview",
+        "question": "What are the rules for privacy protection?",
+        "answer": "Athenura ensures professional standards in all matters related to Privacy protection."
+    },
+    {
+        "id": 265,
+        "category": "Training",
+        "question": "Is attendance mandatory during internship?",
+        "answer": "Guidelines about Attendance are shared during induction and training."
+    },
+    {
+        "id": 266,
+        "category": "Stipend",
+        "question": "Can you explain application review at Athenura?",
+        "answer": "Guidelines about Application review are shared during induction and training."
+    },
+    {
+        "id": 267,
+        "category": "General",
+        "question": "Is there any policy regarding project allocation?",
+        "answer": "Interns are expected to follow all rules related to Project allocation."
+    },
+    {
+        "id": 268,
+        "category": "Confidentiality",
+        "question": "How important is termination policy at Athenura?",
+        "answer": "Termination policy is an important component of the internship framework."
+    },
+    {
+        "id": 269,
+        "category": "Company Overview",
+        "question": "What should interns know about task submission?",
+        "answer": "Support and mentorship are provided concerning Task submission."
+    },
+    {
+        "id": 270,
+        "category": "Technical Support",
+        "question": "How does Athenura handle mentor support?",
+        "answer": "Mentor support is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 271,
+        "category": "General",
+        "question": "How important is project allocation at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Project allocation."
+    },
+    {
+        "id": 272,
+        "category": "Policies",
+        "question": "What benefits are related to LOR issuance?",
+        "answer": "Interns are expected to follow all rules related to Lor issuance."
+    },
+    {
+        "id": 273,
+        "category": "Company Overview",
+        "question": "How does Athenura handle task submission?",
+        "answer": "Task submission is an important component of the internship framework."
+    },
+    {
+        "id": 274,
+        "category": "Eligibility",
+        "question": "What should interns know about data protection?",
+        "answer": "Athenura ensures professional standards in all matters related to Data protection."
+    },
+    {
+        "id": 275,
+        "category": "Services",
+        "question": "Does privacy protection impact internship completion?",
+        "answer": "Privacy protection is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 276,
+        "category": "Evaluation",
+        "question": "What should interns know about performance evaluation?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 277,
+        "category": "Conduct",
+        "question": "Is project allocation mandatory during internship?",
+        "answer": "Athenura ensures professional standards in all matters related to Project allocation."
+    },
+    {
+        "id": 278,
+        "category": "Stipend",
+        "question": "Is attendance mandatory during internship?",
+        "answer": "All interns must comply with policies associated with Attendance."
+    },
+    {
+        "id": 279,
+        "category": "Application",
+        "question": "How important is team collaboration at Athenura?",
+        "answer": "Team collaboration is an important component of the internship framework."
+    },
+    {
+        "id": 280,
+        "category": "Attendance",
+        "question": "How does Athenura handle project allocation?",
+        "answer": "Project allocation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 281,
+        "category": "Application",
+        "question": "Do interns receive guidance on PPO opportunities?",
+        "answer": "Interns are expected to follow all rules related to Ppo opportunities."
+    },
+    {
+        "id": 282,
+        "category": "Terms",
+        "question": "How does Athenura handle team collaboration?",
+        "answer": "Team collaboration is managed under company supervision and structured processes."
+    },
+    {
+        "id": 283,
+        "category": "Evaluation",
+        "question": "How does Athenura handle certificate eligibility?",
+        "answer": "Support and mentorship are provided concerning Certificate eligibility."
+    },
+    {
+        "id": 284,
+        "category": "Attendance",
+        "question": "Does LOR issuance impact internship completion?",
+        "answer": "Lor issuance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 285,
+        "category": "Evaluation",
+        "question": "What should interns know about internship training?",
+        "answer": "Athenura ensures professional standards in all matters related to Internship training."
+    },
+    {
+        "id": 286,
+        "category": "Attendance",
+        "question": "How important is working hours at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Working hours."
+    },
+    {
+        "id": 287,
+        "category": "Terms",
+        "question": "Do interns receive guidance on task submission?",
+        "answer": "Task submission plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 288,
+        "category": "Attendance",
+        "question": "How important is certificate eligibility at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Certificate eligibility."
+    },
+    {
+        "id": 289,
+        "category": "Services",
+        "question": "Is there any policy regarding termination policy?",
+        "answer": "Athenura ensures professional standards in all matters related to Termination policy."
+    },
+    {
+        "id": 290,
+        "category": "Training",
+        "question": "Can you explain internship training at Athenura?",
+        "answer": "Internship training is an important component of the internship framework."
+    },
+    {
+        "id": 291,
+        "category": "Internship Overview",
+        "question": "Does attendance impact internship completion?",
+        "answer": "Attendance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 292,
+        "category": "Services",
+        "question": "How important is termination policy at Athenura?",
+        "answer": "Guidelines about Termination policy are shared during induction and training."
+    },
+    {
+        "id": 293,
+        "category": "Internship Overview",
+        "question": "What are the rules for confidentiality?",
+        "answer": "Interns are expected to follow all rules related to Confidentiality."
+    },
+    {
+        "id": 294,
+        "category": "Company Overview",
+        "question": "What benefits are related to performance evaluation?",
+        "answer": "Performance evaluation is an important component of the internship framework."
+    },
+    {
+        "id": 295,
+        "category": "Attendance",
+        "question": "What should interns know about confidentiality?",
+        "answer": "Interns are expected to follow all rules related to Confidentiality."
+    },
+    {
+        "id": 296,
+        "category": "Placement",
+        "question": "Is there any policy regarding termination policy?",
+        "answer": "Athenura provides complete clarity and support regarding Termination policy."
+    },
+    {
+        "id": 297,
+        "category": "Eligibility",
+        "question": "Is LOR issuance mandatory during internship?",
+        "answer": "Lor issuance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 298,
+        "category": "Internship Overview",
+        "question": "What are the rules for LOR issuance?",
+        "answer": "Guidelines about Lor issuance are shared during induction and training."
+    },
+    {
+        "id": 299,
+        "category": "Evaluation",
+        "question": "Is there any policy regarding LOR issuance?",
+        "answer": "Interns are expected to follow all rules related to Lor issuance."
+    },
+    {
+        "id": 300,
+        "category": "Confidentiality",
+        "question": "What should interns know about task submission?",
+        "answer": "Athenura ensures professional standards in all matters related to Task submission."
+    },
+    {
+        "id": 301,
+        "category": "Application",
+        "question": "Do interns receive guidance on attendance?",
+        "answer": "Athenura provides complete clarity and support regarding Attendance."
+    },
+    {
+        "id": 302,
+        "category": "Stipend",
+        "question": "What should interns know about PPO opportunities?",
+        "answer": "Support and mentorship are provided concerning Ppo opportunities."
+    },
+    {
+        "id": 303,
+        "category": "Stipend",
+        "question": "Is team collaboration mandatory during internship?",
+        "answer": "Team collaboration is an important component of the internship framework."
+    },
+    {
+        "id": 304,
+        "category": "Company Overview",
+        "question": "Does PPO opportunities impact internship completion?",
+        "answer": "Interns are expected to follow all rules related to Ppo opportunities."
+    },
+    {
+        "id": 305,
+        "category": "Eligibility",
+        "question": "How important is application review at Athenura?",
+        "answer": "Application review is managed under company supervision and structured processes."
+    },
+    {
+        "id": 306,
+        "category": "Policies",
+        "question": "How important is selection criteria at Athenura?",
+        "answer": "Selection criteria is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 307,
+        "category": "Internship Overview",
+        "question": "How does Athenura handle privacy protection?",
+        "answer": "Privacy protection plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 308,
+        "category": "Certificate",
+        "question": "What should interns know about placement support?",
+        "answer": "Athenura provides complete clarity and support regarding Placement support."
+    },
+    {
+        "id": 309,
+        "category": "Training",
+        "question": "What benefits are related to termination policy?",
+        "answer": "Interns are expected to follow all rules related to Termination policy."
+    },
+    {
+        "id": 310,
+        "category": "Attendance",
+        "question": "Is communication mandatory during internship?",
+        "answer": "Athenura ensures professional standards in all matters related to Communication."
+    },
+    {
+        "id": 311,
+        "category": "Policies",
+        "question": "Is there any policy regarding termination policy?",
+        "answer": "Support and mentorship are provided concerning Termination policy."
+    },
+    {
+        "id": 312,
+        "category": "Terms",
+        "question": "Is there any policy regarding privacy protection?",
+        "answer": "Athenura provides complete clarity and support regarding Privacy protection."
+    },
+    {
+        "id": 313,
+        "category": "Evaluation",
+        "question": "Does confidentiality impact internship completion?",
+        "answer": "Confidentiality is an important component of the internship framework."
+    },
+    {
+        "id": 314,
+        "category": "General",
+        "question": "Does LOR issuance impact internship completion?",
+        "answer": "All interns must comply with policies associated with Lor issuance."
+    },
+    {
+        "id": 315,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on PPO opportunities?",
+        "answer": "Athenura ensures professional standards in all matters related to Ppo opportunities."
+    },
+    {
+        "id": 316,
+        "category": "Conduct",
+        "question": "How does Athenura handle selection criteria?",
+        "answer": "Guidelines about Selection criteria are shared during induction and training."
+    },
+    {
+        "id": 317,
+        "category": "Eligibility",
+        "question": "How does Athenura handle communication?",
+        "answer": "Athenura provides complete clarity and support regarding Communication."
+    },
+    {
+        "id": 318,
+        "category": "Policies",
+        "question": "Do interns receive guidance on data protection?",
+        "answer": "Data protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 319,
+        "category": "Privacy",
+        "question": "Does PPO opportunities impact internship completion?",
+        "answer": "Support and mentorship are provided concerning Ppo opportunities."
+    },
+    {
+        "id": 320,
+        "category": "Services",
+        "question": "Can you explain code of conduct at Athenura?",
+        "answer": "Code of conduct is an important component of the internship framework."
+    },
+    {
+        "id": 321,
+        "category": "Application",
+        "question": "Is placement support mandatory during internship?",
+        "answer": "Interns are expected to follow all rules related to Placement support."
+    },
+    {
+        "id": 322,
+        "category": "Company Overview",
+        "question": "Is team collaboration mandatory during internship?",
+        "answer": "Athenura ensures professional standards in all matters related to Team collaboration."
+    },
+    {
+        "id": 323,
+        "category": "Attendance",
+        "question": "Can you explain PPO opportunities at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Ppo opportunities."
+    },
+    {
+        "id": 324,
+        "category": "General",
+        "question": "What are the rules for communication?",
+        "answer": "Communication is an important component of the internship framework."
+    },
+    {
+        "id": 325,
+        "category": "Projects",
+        "question": "What are the rules for certificate eligibility?",
+        "answer": "Certificate eligibility is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 326,
+        "category": "General",
+        "question": "Is project allocation mandatory during internship?",
+        "answer": "All interns must comply with policies associated with Project allocation."
+    },
+    {
+        "id": 327,
+        "category": "Placement",
+        "question": "Does selection criteria impact internship completion?",
+        "answer": "Selection criteria is managed under company supervision and structured processes."
+    },
+    {
+        "id": 328,
+        "category": "Eligibility",
+        "question": "Can you explain LOR issuance at Athenura?",
+        "answer": "Support and mentorship are provided concerning Lor issuance."
+    },
+    {
+        "id": 329,
+        "category": "Privacy",
+        "question": "Does data protection impact internship completion?",
+        "answer": "Data protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 330,
+        "category": "Training",
+        "question": "Is LOR issuance mandatory during internship?",
+        "answer": "Lor issuance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 331,
+        "category": "Privacy",
+        "question": "Is LOR issuance mandatory during internship?",
+        "answer": "All interns must comply with policies associated with Lor issuance."
+    },
+    {
+        "id": 332,
+        "category": "Projects",
+        "question": "Is there any policy regarding performance evaluation?",
+        "answer": "Athenura ensures professional standards in all matters related to Performance evaluation."
+    },
+    {
+        "id": 333,
+        "category": "Technical Support",
+        "question": "What benefits are related to LOR issuance?",
+        "answer": "All interns must comply with policies associated with Lor issuance."
+    },
+    {
+        "id": 334,
+        "category": "Application",
+        "question": "Is there any policy regarding selection criteria?",
+        "answer": "Selection criteria is managed under company supervision and structured processes."
+    },
+    {
+        "id": 335,
+        "category": "Company Overview",
+        "question": "Can you explain termination policy at Athenura?",
+        "answer": "Termination policy is an important component of the internship framework."
+    },
+    {
+        "id": 336,
+        "category": "Application",
+        "question": "Do interns receive guidance on termination policy?",
+        "answer": "Termination policy is an important component of the internship framework."
+    },
+    {
+        "id": 337,
+        "category": "Placement",
+        "question": "Is there any policy regarding code of conduct?",
+        "answer": "Guidelines about Code of conduct are shared during induction and training."
+    },
+    {
+        "id": 338,
+        "category": "Attendance",
+        "question": "Can you explain communication at Athenura?",
+        "answer": "All interns must comply with policies associated with Communication."
+    },
+    {
+        "id": 339,
+        "category": "Certificate",
+        "question": "Do interns receive guidance on communication?",
+        "answer": "Athenura ensures professional standards in all matters related to Communication."
+    },
+    {
+        "id": 340,
+        "category": "Certificate",
+        "question": "Does selection criteria impact internship completion?",
+        "answer": "Selection criteria is an important component of the internship framework."
+    },
+    {
+        "id": 341,
+        "category": "Confidentiality",
+        "question": "Is there any policy regarding certificate eligibility?",
+        "answer": "Certificate eligibility is an important component of the internship framework."
+    },
+    {
+        "id": 342,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on application review?",
+        "answer": "Application review plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 343,
+        "category": "Attendance",
+        "question": "What are the rules for termination policy?",
+        "answer": "Guidelines about Termination policy are shared during induction and training."
+    },
+    {
+        "id": 344,
+        "category": "Services",
+        "question": "Is team collaboration mandatory during internship?",
+        "answer": "Guidelines about Team collaboration are shared during induction and training."
+    },
+    {
+        "id": 345,
+        "category": "Company Overview",
+        "question": "What should interns know about placement support?",
+        "answer": "Placement support is managed under company supervision and structured processes."
+    },
+    {
+        "id": 346,
+        "category": "Attendance",
+        "question": "What are the rules for PPO opportunities?",
+        "answer": "Athenura provides complete clarity and support regarding Ppo opportunities."
+    },
+    {
+        "id": 347,
+        "category": "Certificate",
+        "question": "Does internship training impact internship completion?",
+        "answer": "All interns must comply with policies associated with Internship training."
+    },
+    {
+        "id": 348,
+        "category": "Training",
+        "question": "Can you explain performance evaluation at Athenura?",
+        "answer": "Performance evaluation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 349,
+        "category": "Policies",
+        "question": "What are the rules for privacy protection?",
+        "answer": "Privacy protection plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 350,
+        "category": "Confidentiality",
+        "question": "What benefits are related to privacy protection?",
+        "answer": "Support and mentorship are provided concerning Privacy protection."
+    },
+    {
+        "id": 351,
+        "category": "Terms",
+        "question": "Is data protection mandatory during internship?",
+        "answer": "Interns are expected to follow all rules related to Data protection."
+    },
+    {
+        "id": 352,
+        "category": "Projects",
+        "question": "Do interns receive guidance on project allocation?",
+        "answer": "Project allocation is an important component of the internship framework."
+    },
+    {
+        "id": 353,
+        "category": "Confidentiality",
+        "question": "What are the rules for internship training?",
+        "answer": "All interns must comply with policies associated with Internship training."
+    },
+    {
+        "id": 354,
+        "category": "Terms",
+        "question": "How important is performance evaluation at Athenura?",
+        "answer": "Performance evaluation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 355,
+        "category": "Confidentiality",
+        "question": "What are the rules for attendance?",
+        "answer": "Attendance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 356,
+        "category": "Training",
+        "question": "Is there any policy regarding LOR issuance?",
+        "answer": "Lor issuance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 357,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on PPO opportunities?",
+        "answer": "Guidelines about Ppo opportunities are shared during induction and training."
+    },
+    {
+        "id": 358,
+        "category": "Policies",
+        "question": "Do interns receive guidance on data protection?",
+        "answer": "Athenura provides complete clarity and support regarding Data protection."
+    },
+    {
+        "id": 359,
+        "category": "Internship Overview",
+        "question": "Is data protection mandatory during internship?",
+        "answer": "Support and mentorship are provided concerning Data protection."
+    },
+    {
+        "id": 360,
+        "category": "Stipend",
+        "question": "Does termination policy impact internship completion?",
+        "answer": "Termination policy is an important component of the internship framework."
+    },
+    {
+        "id": 361,
+        "category": "LOR",
+        "question": "What should interns know about project allocation?",
+        "answer": "Athenura provides complete clarity and support regarding Project allocation."
+    },
+    {
+        "id": 362,
+        "category": "General",
+        "question": "How does Athenura handle performance evaluation?",
+        "answer": "Support and mentorship are provided concerning Performance evaluation."
+    },
+    {
+        "id": 363,
+        "category": "Eligibility",
+        "question": "Is there any policy regarding PPO opportunities?",
+        "answer": "All interns must comply with policies associated with Ppo opportunities."
+    },
+    {
+        "id": 364,
+        "category": "Policies",
+        "question": "Does performance evaluation impact internship completion?",
+        "answer": "Athenura ensures professional standards in all matters related to Performance evaluation."
+    },
+    {
+        "id": 365,
+        "category": "Eligibility",
+        "question": "Do interns receive guidance on privacy protection?",
+        "answer": "Privacy protection is an important component of the internship framework."
+    },
+    {
+        "id": 366,
+        "category": "Terms",
+        "question": "Do interns receive guidance on confidentiality?",
+        "answer": "Confidentiality is managed under company supervision and structured processes."
+    },
+    {
+        "id": 367,
+        "category": "Privacy",
+        "question": "Is there any policy regarding PPO opportunities?",
+        "answer": "Ppo opportunities plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 368,
+        "category": "Placement",
+        "question": "Do interns receive guidance on internship training?",
+        "answer": "Internship training is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 369,
+        "category": "Placement",
+        "question": "What are the rules for data protection?",
+        "answer": "Data protection plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 370,
+        "category": "LOR",
+        "question": "Is working hours mandatory during internship?",
+        "answer": "All interns must comply with policies associated with Working hours."
+    },
+    {
+        "id": 371,
+        "category": "Company Overview",
+        "question": "What are the rules for PPO opportunities?",
+        "answer": "All interns must comply with policies associated with Ppo opportunities."
+    },
+    {
+        "id": 372,
+        "category": "Attendance",
+        "question": "Is there any policy regarding privacy protection?",
+        "answer": "Athenura ensures professional standards in all matters related to Privacy protection."
+    },
+    {
+        "id": 373,
+        "category": "Placement",
+        "question": "Is placement support mandatory during internship?",
+        "answer": "Support and mentorship are provided concerning Placement support."
+    },
+    {
+        "id": 374,
+        "category": "Evaluation",
+        "question": "How important is LOR issuance at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Lor issuance."
+    },
+    {
+        "id": 375,
+        "category": "Privacy",
+        "question": "What benefits are related to confidentiality?",
+        "answer": "All interns must comply with policies associated with Confidentiality."
+    },
+    {
+        "id": 376,
+        "category": "Attendance",
+        "question": "What benefits are related to attendance?",
+        "answer": "Athenura ensures professional standards in all matters related to Attendance."
+    },
+    {
+        "id": 377,
+        "category": "Conduct",
+        "question": "What benefits are related to internship training?",
+        "answer": "Internship training is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 378,
+        "category": "Application",
+        "question": "Does working hours impact internship completion?",
+        "answer": "Working hours plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 379,
+        "category": "Certificate",
+        "question": "What are the rules for confidentiality?",
+        "answer": "Athenura provides complete clarity and support regarding Confidentiality."
+    },
+    {
+        "id": 380,
+        "category": "Stipend",
+        "question": "How important is team collaboration at Athenura?",
+        "answer": "Team collaboration is managed under company supervision and structured processes."
+    },
+    {
+        "id": 381,
+        "category": "Training",
+        "question": "How does Athenura handle data protection?",
+        "answer": "Interns are expected to follow all rules related to Data protection."
+    },
+    {
+        "id": 382,
+        "category": "LOR",
+        "question": "What should interns know about termination policy?",
+        "answer": "Guidelines about Termination policy are shared during induction and training."
+    },
+    {
+        "id": 383,
+        "category": "LOR",
+        "question": "Does project allocation impact internship completion?",
+        "answer": "Guidelines about Project allocation are shared during induction and training."
+    },
+    {
+        "id": 384,
+        "category": "Application",
+        "question": "How does Athenura handle task submission?",
+        "answer": "All interns must comply with policies associated with Task submission."
+    },
+    {
+        "id": 385,
+        "category": "Certificate",
+        "question": "How does Athenura handle application review?",
+        "answer": "Guidelines about Application review are shared during induction and training."
+    },
+    {
+        "id": 386,
+        "category": "Certificate",
+        "question": "How important is task submission at Athenura?",
+        "answer": "Task submission is an important component of the internship framework."
+    },
+    {
+        "id": 387,
+        "category": "Application",
+        "question": "Can you explain project allocation at Athenura?",
+        "answer": "Project allocation is an important component of the internship framework."
+    },
+    {
+        "id": 388,
+        "category": "Confidentiality",
+        "question": "What are the rules for project allocation?",
+        "answer": "Project allocation plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 389,
+        "category": "Privacy",
+        "question": "Is PPO opportunities mandatory during internship?",
+        "answer": "Ppo opportunities is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 390,
+        "category": "Company Overview",
+        "question": "Is selection criteria mandatory during internship?",
+        "answer": "Selection criteria plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 391,
+        "category": "Terms",
+        "question": "What are the rules for privacy protection?",
+        "answer": "Guidelines about Privacy protection are shared during induction and training."
+    },
+    {
+        "id": 392,
+        "category": "Certificate",
+        "question": "Do interns receive guidance on confidentiality?",
+        "answer": "All interns must comply with policies associated with Confidentiality."
+    },
+    {
+        "id": 393,
+        "category": "Confidentiality",
+        "question": "How important is communication at Athenura?",
+        "answer": "Communication is an important component of the internship framework."
+    },
+    {
+        "id": 394,
+        "category": "Eligibility",
+        "question": "How does Athenura handle working hours?",
+        "answer": "Guidelines about Working hours are shared during induction and training."
+    },
+    {
+        "id": 395,
+        "category": "Company Overview",
+        "question": "What benefits are related to attendance?",
+        "answer": "Attendance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 396,
+        "category": "Privacy",
+        "question": "Is PPO opportunities mandatory during internship?",
+        "answer": "Ppo opportunities is an important component of the internship framework."
+    },
+    {
+        "id": 397,
+        "category": "Confidentiality",
+        "question": "What should interns know about internship training?",
+        "answer": "Support and mentorship are provided concerning Internship training."
+    },
+    {
+        "id": 398,
+        "category": "Training",
+        "question": "What are the rules for communication?",
+        "answer": "Support and mentorship are provided concerning Communication."
+    },
+    {
+        "id": 399,
+        "category": "Technical Support",
+        "question": "Does task submission impact internship completion?",
+        "answer": "All interns must comply with policies associated with Task submission."
+    },
+    {
+        "id": 400,
+        "category": "General",
+        "question": "Do interns receive guidance on performance evaluation?",
+        "answer": "Performance evaluation is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 401,
+        "category": "General",
+        "question": "Can you explain data protection at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Data protection."
+    },
+    {
+        "id": 402,
+        "category": "Conduct",
+        "question": "Is mentor support mandatory during internship?",
+        "answer": "Athenura provides complete clarity and support regarding Mentor support."
+    },
+    {
+        "id": 403,
+        "category": "Terms",
+        "question": "What benefits are related to privacy protection?",
+        "answer": "Support and mentorship are provided concerning Privacy protection."
+    },
+    {
+        "id": 404,
+        "category": "Projects",
+        "question": "What should interns know about confidentiality?",
+        "answer": "Interns are expected to follow all rules related to Confidentiality."
+    },
+    {
+        "id": 405,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on termination policy?",
+        "answer": "Termination policy plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 406,
+        "category": "Confidentiality",
+        "question": "What should interns know about working hours?",
+        "answer": "Guidelines about Working hours are shared during induction and training."
+    },
+    {
+        "id": 407,
+        "category": "Certificate",
+        "question": "What should interns know about LOR issuance?",
+        "answer": "Guidelines about Lor issuance are shared during induction and training."
+    },
+    {
+        "id": 408,
+        "category": "LOR",
+        "question": "What benefits are related to termination policy?",
+        "answer": "Athenura provides complete clarity and support regarding Termination policy."
+    },
+    {
+        "id": 409,
+        "category": "Application",
+        "question": "Do interns receive guidance on project allocation?",
+        "answer": "All interns must comply with policies associated with Project allocation."
+    },
+    {
+        "id": 410,
+        "category": "Training",
+        "question": "What are the rules for mentor support?",
+        "answer": "Interns are expected to follow all rules related to Mentor support."
+    },
+    {
+        "id": 411,
+        "category": "Application",
+        "question": "Do interns receive guidance on project allocation?",
+        "answer": "Interns are expected to follow all rules related to Project allocation."
+    },
+    {
+        "id": 412,
+        "category": "Technical Support",
+        "question": "What are the rules for data protection?",
+        "answer": "Data protection is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 413,
+        "category": "Evaluation",
+        "question": "Can you explain application review at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Application review."
+    },
+    {
+        "id": 414,
+        "category": "Internship Overview",
+        "question": "What benefits are related to attendance?",
+        "answer": "Attendance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 415,
+        "category": "Technical Support",
+        "question": "What are the rules for LOR issuance?",
+        "answer": "Lor issuance is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 416,
+        "category": "Placement",
+        "question": "How important is placement support at Athenura?",
+        "answer": "Support and mentorship are provided concerning Placement support."
+    },
+    {
+        "id": 417,
+        "category": "General",
+        "question": "How important is team collaboration at Athenura?",
+        "answer": "All interns must comply with policies associated with Team collaboration."
+    },
+    {
+        "id": 418,
+        "category": "Projects",
+        "question": "Does PPO opportunities impact internship completion?",
+        "answer": "Interns are expected to follow all rules related to Ppo opportunities."
+    },
+    {
+        "id": 419,
+        "category": "Company Overview",
+        "question": "Do interns receive guidance on project allocation?",
+        "answer": "Athenura ensures professional standards in all matters related to Project allocation."
+    },
+    {
+        "id": 420,
+        "category": "Company Overview",
+        "question": "How important is team collaboration at Athenura?",
+        "answer": "Team collaboration is managed under company supervision and structured processes."
+    },
+    {
+        "id": 421,
+        "category": "Eligibility",
+        "question": "Do interns receive guidance on termination policy?",
+        "answer": "Termination policy is managed under company supervision and structured processes."
+    },
+    {
+        "id": 422,
+        "category": "Certificate",
+        "question": "What are the rules for attendance?",
+        "answer": "Athenura ensures professional standards in all matters related to Attendance."
+    },
+    {
+        "id": 423,
+        "category": "Projects",
+        "question": "How important is privacy protection at Athenura?",
+        "answer": "All interns must comply with policies associated with Privacy protection."
+    },
+    {
+        "id": 424,
+        "category": "LOR",
+        "question": "Does application review impact internship completion?",
+        "answer": "Application review is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 425,
+        "category": "Placement",
+        "question": "What should interns know about privacy protection?",
+        "answer": "Athenura ensures professional standards in all matters related to Privacy protection."
+    },
+    {
+        "id": 426,
+        "category": "Eligibility",
+        "question": "How does Athenura handle project allocation?",
+        "answer": "Interns are expected to follow all rules related to Project allocation."
+    },
+    {
+        "id": 427,
+        "category": "Policies",
+        "question": "How important is LOR issuance at Athenura?",
+        "answer": "Lor issuance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 428,
+        "category": "Application",
+        "question": "What should interns know about team collaboration?",
+        "answer": "Athenura provides complete clarity and support regarding Team collaboration."
+    },
+    {
+        "id": 429,
+        "category": "Confidentiality",
+        "question": "What should interns know about attendance?",
+        "answer": "Attendance plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 430,
+        "category": "Certificate",
+        "question": "Do interns receive guidance on internship training?",
+        "answer": "Internship training is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 431,
+        "category": "LOR",
+        "question": "How important is data protection at Athenura?",
+        "answer": "Athenura ensures professional standards in all matters related to Data protection."
+    },
+    {
+        "id": 432,
+        "category": "Evaluation",
+        "question": "Do interns receive guidance on working hours?",
+        "answer": "Athenura ensures professional standards in all matters related to Working hours."
+    },
+    {
+        "id": 433,
+        "category": "Terms",
+        "question": "How does Athenura handle attendance?",
+        "answer": "Attendance is managed under company supervision and structured processes."
+    },
+    {
+        "id": 434,
+        "category": "LOR",
+        "question": "How important is code of conduct at Athenura?",
+        "answer": "Athenura provides complete clarity and support regarding Code of conduct."
+    },
+    {
+        "id": 435,
+        "category": "Certificate",
+        "question": "Does team collaboration impact internship completion?",
+        "answer": "Team collaboration is managed under company supervision and structured processes."
+    },
+    {
+        "id": 436,
+        "category": "General",
+        "question": "Does selection criteria impact internship completion?",
+        "answer": "Guidelines about Selection criteria are shared during induction and training."
+    },
+    {
+        "id": 437,
+        "category": "LOR",
+        "question": "Is task submission mandatory during internship?",
+        "answer": "Guidelines about Task submission are shared during induction and training."
+    },
+    {
+        "id": 438,
+        "category": "Policies",
+        "question": "How does Athenura handle certificate eligibility?",
+        "answer": "Interns are expected to follow all rules related to Certificate eligibility."
+    },
+    {
+        "id": 439,
+        "category": "Conduct",
+        "question": "Does LOR issuance impact internship completion?",
+        "answer": "Athenura provides complete clarity and support regarding Lor issuance."
+    },
+    {
+        "id": 440,
+        "category": "Projects",
+        "question": "What should interns know about working hours?",
+        "answer": "Working hours is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 441,
+        "category": "Evaluation",
+        "question": "What should interns know about internship training?",
+        "answer": "Interns are expected to follow all rules related to Internship training."
+    },
+    {
+        "id": 442,
+        "category": "Attendance",
+        "question": "What are the rules for confidentiality?",
+        "answer": "Confidentiality is an important component of the internship framework."
+    },
+    {
+        "id": 443,
+        "category": "Attendance",
+        "question": "Can you explain performance evaluation at Athenura?",
+        "answer": "Support and mentorship are provided concerning Performance evaluation."
+    },
+    {
+        "id": 444,
+        "category": "General",
+        "question": "Does mentor support impact internship completion?",
+        "answer": "Mentor support is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 445,
+        "category": "Services",
+        "question": "How important is selection criteria at Athenura?",
+        "answer": "Selection criteria is an important component of the internship framework."
+    },
+    {
+        "id": 446,
+        "category": "Evaluation",
+        "question": "What should interns know about LOR issuance?",
+        "answer": "Athenura provides complete clarity and support regarding Lor issuance."
+    },
+    {
+        "id": 447,
+        "category": "Services",
+        "question": "Can you explain internship training at Athenura?",
+        "answer": "Internship training plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 448,
+        "category": "LOR",
+        "question": "Can you explain project allocation at Athenura?",
+        "answer": "Project allocation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 449,
+        "category": "Projects",
+        "question": "What are the rules for internship training?",
+        "answer": "Internship training is managed under company supervision and structured processes."
+    },
+    {
+        "id": 450,
+        "category": "Conduct",
+        "question": "Do interns receive guidance on working hours?",
+        "answer": "Working hours is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 451,
+        "category": "Terms",
+        "question": "Is mentor support mandatory during internship?",
+        "answer": "Guidelines about Mentor support are shared during induction and training."
+    },
+    {
+        "id": 452,
+        "category": "Technical Support",
+        "question": "Do interns receive guidance on selection criteria?",
+        "answer": "Interns are expected to follow all rules related to Selection criteria."
+    },
+    {
+        "id": 453,
+        "category": "Policies",
+        "question": "Is there any policy regarding performance evaluation?",
+        "answer": "Performance evaluation is managed under company supervision and structured processes."
+    },
+    {
+        "id": 454,
+        "category": "Internship Overview",
+        "question": "Does project allocation impact internship completion?",
+        "answer": "All interns must comply with policies associated with Project allocation."
+    },
+    {
+        "id": 455,
+        "category": "Technical Support",
+        "question": "Does privacy protection impact internship completion?",
+        "answer": "Privacy protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 456,
+        "category": "Confidentiality",
+        "question": "How does Athenura handle performance evaluation?",
+        "answer": "All interns must comply with policies associated with Performance evaluation."
+    },
+    {
+        "id": 457,
+        "category": "Conduct",
+        "question": "Does PPO opportunities impact internship completion?",
+        "answer": "Ppo opportunities is managed under company supervision and structured processes."
+    },
+    {
+        "id": 458,
+        "category": "Application",
+        "question": "What should interns know about data protection?",
+        "answer": "Data protection is managed under company supervision and structured processes."
+    },
+    {
+        "id": 459,
+        "category": "Services",
+        "question": "How important is termination policy at Athenura?",
+        "answer": "All interns must comply with policies associated with Termination policy."
+    },
+    {
+        "id": 460,
+        "category": "Eligibility",
+        "question": "Does code of conduct impact internship completion?",
+        "answer": "Code of conduct is an important component of the internship framework."
+    },
+    {
+        "id": 461,
+        "category": "Attendance",
+        "question": "How important is mentor support at Athenura?",
+        "answer": "Guidelines about Mentor support are shared during induction and training."
+    },
+    {
+        "id": 462,
+        "category": "Eligibility",
+        "question": "Is there any policy regarding confidentiality?",
+        "answer": "Athenura ensures professional standards in all matters related to Confidentiality."
+    },
+    {
+        "id": 463,
+        "category": "Company Overview",
+        "question": "What benefits are related to communication?",
+        "answer": "Communication is an important component of the internship framework."
+    },
+    {
+        "id": 464,
+        "category": "Attendance",
+        "question": "Does termination policy impact internship completion?",
+        "answer": "Termination policy is managed under company supervision and structured processes."
+    },
+    {
+        "id": 465,
+        "category": "Confidentiality",
+        "question": "Do interns receive guidance on PPO opportunities?",
+        "answer": "Interns are expected to follow all rules related to Ppo opportunities."
+    },
+    {
+        "id": 466,
+        "category": "Training",
+        "question": "Can you explain project allocation at Athenura?",
+        "answer": "Project allocation plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 467,
+        "category": "Application",
+        "question": "How does Athenura handle task submission?",
+        "answer": "All interns must comply with policies associated with Task submission."
+    },
+    {
+        "id": 468,
+        "category": "Eligibility",
+        "question": "How important is data protection at Athenura?",
+        "answer": "Data protection is an important component of the internship framework."
+    },
+    {
+        "id": 469,
+        "category": "Confidentiality",
+        "question": "What should interns know about communication?",
+        "answer": "Guidelines about Communication are shared during induction and training."
+    },
+    {
+        "id": 470,
+        "category": "Projects",
+        "question": "Is termination policy mandatory during internship?",
+        "answer": "Interns are expected to follow all rules related to Termination policy."
+    },
+    {
+        "id": 471,
+        "category": "Evaluation",
+        "question": "Does data protection impact internship completion?",
+        "answer": "Athenura provides complete clarity and support regarding Data protection."
+    },
+    {
+        "id": 472,
+        "category": "Services",
+        "question": "Does team collaboration impact internship completion?",
+        "answer": "Athenura provides complete clarity and support regarding Team collaboration."
+    },
+    {
+        "id": 473,
+        "category": "Internship Overview",
+        "question": "Does team collaboration impact internship completion?",
+        "answer": "Team collaboration plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 474,
+        "category": "Placement",
+        "question": "Does communication impact internship completion?",
+        "answer": "Communication plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 475,
+        "category": "Certificate",
+        "question": "Do interns receive guidance on attendance?",
+        "answer": "Attendance is an important component of the internship framework."
+    },
+    {
+        "id": 476,
+        "category": "Stipend",
+        "question": "Can you explain performance evaluation at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 477,
+        "category": "Company Overview",
+        "question": "Does attendance impact internship completion?",
+        "answer": "Guidelines about Attendance are shared during induction and training."
+    },
+    {
+        "id": 478,
+        "category": "Confidentiality",
+        "question": "How does Athenura handle application review?",
+        "answer": "Application review is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 479,
+        "category": "Policies",
+        "question": "Is team collaboration mandatory during internship?",
+        "answer": "Support and mentorship are provided concerning Team collaboration."
+    },
+    {
+        "id": 480,
+        "category": "Evaluation",
+        "question": "How important is communication at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Communication."
+    },
+    {
+        "id": 481,
+        "category": "Services",
+        "question": "What benefits are related to PPO opportunities?",
+        "answer": "Ppo opportunities is managed under company supervision and structured processes."
+    },
+    {
+        "id": 482,
+        "category": "Terms",
+        "question": "Is task submission mandatory during internship?",
+        "answer": "Task submission is managed under company supervision and structured processes."
+    },
+    {
+        "id": 483,
+        "category": "Technical Support",
+        "question": "What are the rules for PPO opportunities?",
+        "answer": "Support and mentorship are provided concerning Ppo opportunities."
+    },
+    {
+        "id": 484,
+        "category": "LOR",
+        "question": "How important is placement support at Athenura?",
+        "answer": "Interns are expected to follow all rules related to Placement support."
+    },
+    {
+        "id": 485,
+        "category": "Services",
+        "question": "Does code of conduct impact internship completion?",
+        "answer": "Athenura provides complete clarity and support regarding Code of conduct."
+    },
+    {
+        "id": 486,
+        "category": "Placement",
+        "question": "Can you explain confidentiality at Athenura?",
+        "answer": "Confidentiality plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 487,
+        "category": "Placement",
+        "question": "How does Athenura handle working hours?",
+        "answer": "Athenura provides complete clarity and support regarding Working hours."
+    },
+    {
+        "id": 488,
+        "category": "Policies",
+        "question": "Is there any policy regarding mentor support?",
+        "answer": "Athenura ensures professional standards in all matters related to Mentor support."
+    },
+    {
+        "id": 489,
+        "category": "Stipend",
+        "question": "Do interns receive guidance on performance evaluation?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 490,
+        "category": "Projects",
+        "question": "Is performance evaluation mandatory during internship?",
+        "answer": "Performance evaluation is structured according to Athenura\u2019s official internship policies and guidelines."
+    },
+    {
+        "id": 491,
+        "category": "Certificate",
+        "question": "How important is mentor support at Athenura?",
+        "answer": "Mentor support plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 492,
+        "category": "Policies",
+        "question": "What should interns know about internship training?",
+        "answer": "Guidelines about Internship training are shared during induction and training."
+    },
+    {
+        "id": 493,
+        "category": "Application",
+        "question": "Do interns receive guidance on performance evaluation?",
+        "answer": "Interns are expected to follow all rules related to Performance evaluation."
+    },
+    {
+        "id": 494,
+        "category": "Projects",
+        "question": "How does Athenura handle task submission?",
+        "answer": "Guidelines about Task submission are shared during induction and training."
+    },
+    {
+        "id": 495,
+        "category": "Placement",
+        "question": "Does data protection impact internship completion?",
+        "answer": "Guidelines about Data protection are shared during induction and training."
+    },
+    {
+        "id": 496,
+        "category": "Stipend",
+        "question": "Do interns receive guidance on confidentiality?",
+        "answer": "Confidentiality is an important component of the internship framework."
+    },
+    {
+        "id": 497,
+        "category": "Services",
+        "question": "What benefits are related to team collaboration?",
+        "answer": "Athenura provides complete clarity and support regarding Team collaboration."
+    },
+    {
+        "id": 498,
+        "category": "Conduct",
+        "question": "Can you explain selection criteria at Athenura?",
+        "answer": "Selection criteria is an important component of the internship framework."
+    },
+    {
+        "id": 499,
+        "category": "Confidentiality",
+        "question": "Is there any policy regarding code of conduct?",
+        "answer": "Code of conduct is managed under company supervision and structured processes."
+    },
+    {
+        "id": 500,
+        "category": "Eligibility",
+        "question": "What should interns know about data protection?",
+        "answer": "Data protection plays a key role in intern evaluation and development."
+    },
+    {
+        "id": 501,
+        "category": "Leaves & Holidays",
+        "question": "How many holidays are provided during the internship?",
+        "answer": "Interns are provided with a total of 4 official holidays during the internship period as per the organizational calendar."
+    },
+    {
+        "id": 502,
+        "category": "Leaves & Holidays",
+        "question": "What is the working culture and weekly schedule for interns?",
+        "answer": "The internship follows a 5-day working culture. Interns are expected to actively participate in assigned tasks, team collaboration, and project submissions during working days."
+    },
+    {
+        "id": 503,
+        "category": "Leaves & Holidays",
+        "question": "Are emergency leaves available for interns?",
+        "answer": "Yes, interns are eligible for 2 emergency leaves during the internship in case of urgent or unavoidable situations."
+    },
+    {
+        "id": 504,
+        "category": "Leaves & Holidays",
+        "question": "How can interns apply for emergency leave?",
+        "answer": "Interns can apply for emergency leave through the official leave portal: www.athenura.in/internship/leave"
+    },
+    {
+        "id": 505,
+        "category": "Verification & Performance",
+        "question": "How can interns verify their internship or check performance?",
+        "answer": "Interns can verify their internship details and track their performance through the verification and performance portal: www.athenura.in/internship/performance"
+    }
+]
